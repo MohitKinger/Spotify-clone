@@ -61,6 +61,20 @@ Build Spotify-clone from the source and install dependencies:
    git clone https://github.com/MohitKinger/Spotify-clone
 
 2. **Navigate to the project directory:**
-```bash
+   ```bash
    cd spotify-clone
+3. **Install the dependencies:**
+   echo 'INSERT-INSTALL-COMMAND-HERE'
+
+**Usage:**
+Run the project with:
+echo 'INSERT-RUN-COMMAND-HERE'
+
+**Testing:**
+Spotify-clone uses the {test_framework} test framework. Run the test suite with:
+echo 'INSERT-TEST-COMMAND-HERE'
+
+
+
+
 
