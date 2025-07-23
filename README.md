@@ -67,12 +67,12 @@ Build Spotify-clone from the source and install dependencies:
    echo 'INSERT-INSTALL-COMMAND-HERE'
 
 **Usage:**
-Run the project with:
-echo 'INSERT-RUN-COMMAND-HERE'
+- Run the project with:
+- echo 'INSERT-RUN-COMMAND-HERE'
 
 **Testing:**
-Spotify-clone uses the {test_framework} test framework. Run the test suite with:
-echo 'INSERT-TEST-COMMAND-HERE'
+- Spotify-clone uses the {test_framework} test framework. Run the test suite with:
+- echo 'INSERT-TEST-COMMAND-HERE'
 
 
 
